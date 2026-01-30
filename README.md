@@ -23,4 +23,4 @@ go run .
 * 支持中文字体
 
 ## 案例
-![cover_chinese.png](cover_chinese.png)
+<img src="cover_chinese.png" alt="描述" width="300">
